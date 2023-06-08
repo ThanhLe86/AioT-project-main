@@ -1,2 +1,1 @@
-# AioT-project-main
-I created a sound recognition Javascript program from Teachable Machine instead of a python program for object recognition because i didn't bring my webbcam.
+This is my revised version of Lab object recognition AI project using Python
